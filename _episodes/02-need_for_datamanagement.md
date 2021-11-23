@@ -13,5 +13,5 @@ keypoints:
 
 ## Example Image
 
-![Why we need a data management plan](../fig/123usbX.png)
+![Why we need a data management plan](../fig/123usbY.png)
 

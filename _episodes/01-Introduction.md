@@ -8,7 +8,6 @@ objectives:
 - "Feel comfortable making changes in the workshop tutorial template."
 keypoints:
 - "Using github template for online workshop templates"
-
 ---
 
 ## Introduction?

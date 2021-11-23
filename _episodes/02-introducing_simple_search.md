@@ -1,22 +1,16 @@
 ---
-title: "Introducing simple search option in LIVIVO"
-teaching: 30
-exercises: 20
+title: "Need for Datamanagement"
+teaching: 5
+exercises: 5
 questions:
-- How can you use the simple search?
-- How is a LIVIVO entry structured?
-- How to filter a search query afterwards?
+- Why do we need data management?
 objectives:
-- "Know how to use the search slot in LIVIVO"
-- "Know how a single entry looks like"
-- "Know how to filter your query" 
+- "example on why we need data management" 
 keypoints:
-- "search bar"
-- "filter options"
+- "data management makes future life easier"
 ---
 
-## First Query
+## Example Image
 
-![Type Query](../fig/02-01-type_query.png)
-![LIVIVO results](../fig/02-02-query_results.png)
-![Entry Details](../fig/02-03-entry_details.png)
+![Type Query](../fig/123usbX.png)
+

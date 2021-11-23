@@ -17,5 +17,3 @@ The workshop tuorial is based on a lesson on LIVIVO which is an interdisciplinar
 
 ## Special feature: 
 This previous workshop template was used to introduce into data management!
-
----

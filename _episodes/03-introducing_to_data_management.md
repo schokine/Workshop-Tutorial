@@ -9,3 +9,6 @@ objectives:
 keypoints:
 - "DMP"
 ---
+## Example Image
+
+![Why we need a data management plan](../fig/123dmpX.png)

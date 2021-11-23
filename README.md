@@ -1,4 +1,4 @@
-# Maintainers - LIVIVO Workshop
+# Maintainers - Workshop-Tutorial
 - [Claire Jeanquartier](https://github.com/schokine)
 based on template by:
 - [Konrad Förstner](https://github.com/konrad)

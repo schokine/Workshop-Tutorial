@@ -4,6 +4,7 @@ teaching: 5
 exercises: 5
 questions:
 - Why do we need data management?
+- how are data management plans abbreviated?
 objectives:
 - "example on why we need data management" 
 keypoints:

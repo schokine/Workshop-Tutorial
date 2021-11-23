@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-This sorkshop tutorial introduces into creating online-workshops.
+This workshop tutorial introduces into creating online-workshops.
 At the conclusion of the lesson you will: know what the LIVIO interface looks like;
 know how to search in LIVIVO for simple/advanced search; 
 know how to use of bookmarks and search agents.

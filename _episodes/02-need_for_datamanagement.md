@@ -12,5 +12,5 @@ keypoints:
 
 ## Example Image
 
-![Type Query](../fig/123usbX.png)
+![Why we need a data management plan](../fig/123usbX.png)
 

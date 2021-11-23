@@ -7,7 +7,7 @@ questions:
 objectives:
 - "give further exmample on data management benefints" 
 keypoints:
-- "DMP"
+- "data management makes future life easier"
 ---
 ## Example Image
 

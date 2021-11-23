@@ -1,8 +1,7 @@
 # Maintainers - Workshop-Tutorial
 - [Claire Jeanquartier](https://github.com/schokine)
 based on template by:
-- [Konrad Förstner](https://github.com/konrad)
-- [Rabea Müller](https://github.com/RabeaMue)  
+- [Konrad Förstner](https://github.com/konrad) & [Rabea Müller](https://github.com/RabeaMue)  
 
 ## Based on Library Carpentry
 

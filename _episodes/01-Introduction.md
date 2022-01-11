@@ -5,17 +5,17 @@ exercises: 0
 questions:
 - "Introduction"
 objectives:
-- "Trying out some basic GIT-commands."
+- "Introduction to GIT."
 keypoints:
-- "First steps using GIT"
+- "First steps using GIT, without any previous knowledge."
 ---
 
 ## Introduction?
 
-This tutorial is intended to introduce GIT as tool in data management. Git is a version control system and helps track changes and work collaboratively.
+This tutorial is intended to introduce GIT as tool in data management. Git is a opensource distributed version control system and helps track changes and work on collaborative projects. It can be used to update changes in code, but also for writing a book, keeping notes etc.
 
 ## Special feature: 
-This previous workshop template was used to introduce into data management!
+The previous workshop template was used to introduce into data management!
 
 ## First steps
 
